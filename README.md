@@ -1,5 +1,5 @@
 ## About Me
-Hello. I'm a Sophomore studying Computer Science at Western University, London, Ontario CA.
+Hello. I'm a sophomore student studying Computer Science at Western University, London, Ontario CA.
 
 
 <!--
