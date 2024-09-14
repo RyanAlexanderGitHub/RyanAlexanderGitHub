@@ -1,5 +1,5 @@
 ## About Me
-- Second year University Student studying Comp Sci at Western University in London, Ontario CA.
+Hello. I'm a second year University student currently studying Computer Science at Western University, London, Ontario CA.
 
 
 <!--
