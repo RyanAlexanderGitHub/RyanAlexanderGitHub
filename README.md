@@ -1,6 +1,6 @@
 ___________________________________________________________________________________________________________________________________________________________________________________________________
 ### Hello, and welcome to my GitHub!                                                                                                                                                               
-# ▪️ Who Am I?
+# ▪️ About Me :
 My name is Ryan Alexander.  I'm a sophmore attending Western University (CA), currently studying computer science. 
 
 <!--
