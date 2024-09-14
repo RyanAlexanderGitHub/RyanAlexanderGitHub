@@ -1,7 +1,7 @@
 ___________________________________________________________________________________________________________________________________________________________________________________________________
 ### Welcome to my GitHub!                                                                                                                                                               
 # ▪️ About Me :
-My name is Ryan Alexander.                                                                                                                                                                      I'm a sophmore attending Western University (CA) studying computer science. 
+My name is Ryan Alexander.                                                                                                                                                                         I'm a sophmore attending Western University (CA) studying computer science. 
 
 <!--
 **RyanAlexanderGitHub/RyanAlexanderGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
