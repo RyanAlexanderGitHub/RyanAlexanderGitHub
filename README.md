@@ -1,5 +1,5 @@
 ___________________________________________________________________________________________________________________________________________________________________________________________________
-### Hello. Welcome to my GitHub!                                                                                                                                                               
+### Welcome to my GitHub!                                                                                                                                                               
 # ▪️ About Me :
 My name is Ryan Alexander.  I'm a sophmore attending Western University (CA), currently studying computer science. 
 
