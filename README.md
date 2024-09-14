@@ -1,6 +1,6 @@
 # ▪️ Who I Am :
 Hello, and welcome to my GitHub!                                                                                                                                                                 
-I'm Ryan Alexander, a sophmore attending Western University in Canada, studying computer science. 
+I'm a sophmore attending Western University in Canada, currently studying computer science. 
 
 <!--
 **RyanAlexanderGitHub/RyanAlexanderGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
