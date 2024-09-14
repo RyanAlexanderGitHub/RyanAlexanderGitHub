@@ -1,4 +1,6 @@
-## Hi there 👋
+## Ryan Alexander's GitHub
+- Second year university student at Western University in London, Ontario CA.
+
 
 <!--
 **RyanAlexanderGitHub/RyanAlexanderGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
