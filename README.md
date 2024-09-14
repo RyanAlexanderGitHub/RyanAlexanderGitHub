@@ -1,4 +1,4 @@
-## Ryan Alexander's GitHub
+## About Me
 - Second year University Student studying Comp Sci at Western University in London, Ontario CA.
 
 
