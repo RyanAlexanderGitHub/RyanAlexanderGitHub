@@ -1,5 +1,5 @@
 # ▪️ Who I Am :
-Hello, and welcome to my GitHub!__ 
+Hello, and welcome to my GitHub!                                                                                                                                                                 
 I'm Ryan Alexander, a sophmore attending Western University in Canada, studying computer science. 
 
 <!--
