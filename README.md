@@ -1,3 +1,4 @@
+___________________________________________________________________________________________________________________________________________________________________________________________________
 Hello, and welcome to my GitHub!                                                                                                                                                                 
 # ▪️ Who I Am :
 I'm a sophmore attending Western University (CA), currently studying computer science. 
