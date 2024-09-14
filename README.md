@@ -1,5 +1,5 @@
 ## Ryan Alexander's GitHub
-- Second year university student at Western University in London, Ontario CA.
+- Second year University Student studying Comp Sci at Western University in London, Ontario CA.
 
 
 <!--
