@@ -1,7 +1,7 @@
 ___________________________________________________________________________________________________________________________________________________________________________________________________
 ### Welcome to my GitHub!                                                                                                                                                               
 # ▪️ About Me :
-Hey! I'm Ryan Alexander (He/Him), a sophomore studying Computer Science at *Western University, Ontario CA*.
+Hey, I'm Ryan Alexander (He/Him), a sophomore studying Computer Science at *Western University, Ontario CA*.
 
 <!--
 **RyanAlexanderGitHub/RyanAlexanderGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
