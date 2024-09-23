@@ -3,6 +3,8 @@ ________________________________________________________________________________
 # ▪️ About Me :
 Hey, I'm Ryan Alexander (He/Him), a sophomore studying Computer Science at *Western University, Ontario CA*.
 
+In my free time, I'm currently learning how to use Unity for game development! 👾
+
 <!--
 **RyanAlexanderGitHub/RyanAlexanderGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
