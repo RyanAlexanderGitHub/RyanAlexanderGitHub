@@ -1,6 +1,6 @@
 ### **Hello** 👋
 
-I'm Ryan, a Sophomore studying computer science at *Western University* in Ontario!
+I'm Ryan, a Sophomore studying computer science at *Western University*, Ontario!
 
 I'm enrolled in ***Honours Specialization in Computer Science, with a Minor in Game Development***.
 
