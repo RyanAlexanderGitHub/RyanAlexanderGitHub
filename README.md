@@ -1,6 +1,6 @@
 ### **Hello** 👋
 
-I'm Ryan, a sophomore student studying computer science at *Western University*, Ontario!
+I'm Ryan, a sophomore studying computer science at *Western University*, Ontario!
 
 I'm enrolled in ***Honours Specialization in Computer Science, with a Minor in Game Development***.
 I'm currently learning Unity as a passion project. I'm also currently enrolled in CS2208, learning how to code in Assembly using ARM7 (Big Endian).
